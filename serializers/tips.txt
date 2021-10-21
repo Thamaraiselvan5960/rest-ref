@@ -1,0 +1,34 @@
+Serializers
+    1. Declaring serializers
+    2. Serializing objects
+    3. Deserializing objects
+    4. Saving instances
+    5. Validation
+    6. Accessing the initial data and instance
+    7. Partial updates
+    8. Dealing with nested objects
+    9. Writable nested representations
+    10. Dealing with multiple objects
+    11. Including extra context
+    -------------------------------------------------------------------
+    12. ModelSerializer
+    13. Specifying which fields to include
+    14. Specifying nested serialization
+    15. Specifying fields explicitly
+    16. Specifying read only fields
+    17. Additional keyword arguments
+    18. Relational fields
+    19. Customizing field mappings
+    20. HyperlinkedModelSerializer
+    21. ListSerializer
+    22. BaseSerializer
+    -------------------------------------------------------------------
+    23. Advanced serializer usage
+    24. Overriding serialization and deserialization behavior
+    25. Serializer Inheritance
+    26. Dynamically modifying fields
+    27. Customizing the default fields
+    28. Third party packages
+
+Serializer fields 
+    
